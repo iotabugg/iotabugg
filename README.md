@@ -1,21 +1,65 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br><br>* Full-stack web applications using **MERN + TypeScript**<br>* Building scalable projects with **Next.js** and modern backend architectures<br>* Strengthening **DSA and system design fundamentals** for SDE roles<br><br>👯 **I’m looking to collaborate on**<br><br>* Open-source **full-stack or Next.js projects**<br>* Developer tools, productivity apps, or real-world problem-solving platforms<br>* Innovative web applications with strong backend and clean architecture<br><br>🤝 **I’m looking for help with**<br><br>* Advanced **system design and scalable backend patterns**<br>* Production-level **Next.js architecture and performance optimization**<br>* Writing clean, maintainable, and industry-grade code<br><br>🌱 **I’m currently learning**<br><br>* **Next.js (fast-paced)**<br>* Advanced **TypeScript and backend engineering**<br>* **System Design & scalable distributed systems**<br><br>💬 **Ask me about**<br><br>* MERN Stack Development<br>* TypeScript & Backend APIs<br>* DSA problem solving and logic building<br>* GitHub, projects, and development workflow<br><br>⚡ **Fun fact**<br><br>* I prefer building projects at night because that’s when the best ideas and cleanest code come out 🌙<br>
+<h1 align="center"> 
+Hi!!
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40"  />I'm <a href="https://www.linkedin.com/in/yash-varma-/" target="_blank">Rishabh Raj</h1>
+
+<div id="header" align="center">
+  <img
+    src="https://plus.unsplash.com/premium_vector-1725591563054-75cf1406b316?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    width="400" />
+</div>
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer!;" alt="Typing SVG" />
+  </a>
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-raj-b38874288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhrajug@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iotabugg&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iotabugg&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iotabugg&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iotabugg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Connect With Me:
+###  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-raj-b38874288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blackonionpeel@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iotabugg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--Languages & tools-->
+<h1 align="center"><img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width=30px height="38"> Languages, Tools and Technologies </h1>
+
+<table align="center">
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=react,html,css,figma"></td>
+  </tr>
+  <tr>
+    <td><strong>Backend Technologies</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=bash,git,github,docker&theme=dark"></td>
+  </tr>
+    <tr>
+    <td><strong>Other Skills</strong></td>
+    <td><img height=40 src="https://skillicons.dev/icons?i=mysql,postgres,jquery,linux&theme=dark"></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iotabugg&theme=aura"  />
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iotabugg&theme=aura"  />
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iotabugg&theme=aura"  />
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iotabugg&theme=aura"  />
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iotabugg&theme=aura" />
+</div>
